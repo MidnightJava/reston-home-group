@@ -1,3 +1,4 @@
 **Feb 21**
-[Notes] (https://github.com/MidnightJava/reston-home-group/blob/3274c29081e6308f632d985756303f8c6bca6747/bible-study/2025_Feb_21/Intro_to_John.pdf)
-[Audio] (bible-study/2025_Feb_21/audio.ogg)
+[Notes](https://github.com/MidnightJava/reston-home-group/blob/3274c29081e6308f632d985756303f8c6bca6747/bible-study/2025_Feb_21/Intro_to_John.pdf)
+
+[Audio](bible-study/2025_Feb_21/audio.ogg)
