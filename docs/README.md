@@ -1,5 +1,7 @@
 ## Bible Study Files
+
 [Overview Diagram](https://github.com/MidnightJava/reston-home-group/raw/main/bible-study/John_Overview.pdf)
+
 Date|Notes|Download Audio|Play Audio
 --|--|--|--|
 **Feb 21**|[Intro to John (pdf)](https://github.com/MidnightJava/reston-home-group/raw/main/bible-study/2025_Feb_21/Intro_to_John.pdf)|[audio.ogg](https://github.com/MidnightJava/reston-home-group/raw/refs/heads/main/bible-study/2025_Feb_21/audio.ogg)|<audio controls src="https://github.com/MidnightJava/reston-home-group/raw/refs/heads/main/bible-study/2025_Feb_21/audio.ogg"></audio>
