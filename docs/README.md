@@ -12,7 +12,8 @@ Date|Notes|Download Audio|Play Audio
 **May 16**|[John 2:13-22 (pdf)](https://github.com/MidnightJava/reston-home-group/raw/main/bible-study/2025_May_16/John_2_13-22.pdf)|[audio.ogg](https://github.com/MidnightJava/reston-home-group/raw/refs/heads/main/bible-study/2025_May_16/audio.ogg)|<audio controls src="https://github.com/MidnightJava/reston-home-group/raw/refs/heads/main/bible-study/2025_May_16/audio.ogg"></audio>
 **Sep 05**|[John 3:01-15 (pdf)](https://github.com/MidnightJava/reston-home-group/raw/main/bible-study/2025_Sep_05/John_3_01-15.pdf)|[audio.ogg](https://github.com/MidnightJava/reston-home-group/raw/refs/heads/main/bible-study/2025_Sep_05/audio.ogg)|<audio controls src="https://github.com/MidnightJava/reston-home-group/raw/refs/heads/main/bible-study/2025_Sep_05/audio.ogg"></audio>
 **Sep 19**|[John 3:16-36 (pdf)](https://github.com/MidnightJava/reston-home-group/raw/main/bible-study/2025_Sep_19/John_3_16-36.pdf)|[audio.ogg](https://github.com/MidnightJava/reston-home-group/raw/refs/heads/main/bible-study/2025_Sep_19/audio.ogg)|<audio controls src="https://github.com/MidnightJava/reston-home-group/raw/refs/heads/main/bible-study/2025_Sep_19/audio.ogg"></audio>
-**Oct 01**|[John 4:1-42 (pdf)](https://github.com/MidnightJava/reston-home-group/raw/main/bible-study/2025_Sep_19/John_4_1_42.pdf)||
+**Oct 01**|[John 4:1-42 (pdf)](https://github.com/MidnightJava/reston-home-group/raw/main/bible-study/2025_Oct_01/John_4_1_42.pdf)||
+
 
 
 
