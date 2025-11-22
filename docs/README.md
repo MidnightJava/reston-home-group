@@ -14,7 +14,8 @@ Date|Notes|Download Audio|Play Audio
 **Sep 19**|[John 3:16-36 (pdf)](https://github.com/MidnightJava/reston-home-group/raw/main/bible-study/2025_Sep_19/John_3_16-36.pdf)|[audio.ogg](https://github.com/MidnightJava/reston-home-group/raw/refs/heads/main/bible-study/2025_Sep_19/audio.ogg)|<audio controls src="https://github.com/MidnightJava/reston-home-group/raw/refs/heads/main/bible-study/2025_Sep_19/audio.ogg"></audio>
 **Oct 01**|[John 4:1-42 (pdf)](https://github.com/MidnightJava/reston-home-group/raw/main/bible-study/2025_Oct_01/John_4_1_42.pdf)||
 **Nov 05**|[John_5 (pdf)](https://github.com/MidnightJava/reston-home-group/raw/main/bible-study/2025_Nov_05/John_5.pdf)||
-**Nov 19**|[John_5 (pdf)](https://github.com/MidnightJava/reston-home-group/raw/main/bible-study/2025_Nov_19/John_6.pdf)||
+**Nov 19**|[John_6 (pdf)](https://github.com/MidnightJava/reston-home-group/raw/main/bible-study/2025_Nov_19/John_6.pdf)||
+
 
 
 
