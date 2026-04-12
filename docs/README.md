@@ -1,6 +1,7 @@
 ## Bible Study Files
 
 [Overview Diagram](https://github.com/MidnightJava/reston-home-group/raw/main/bible-study/John_Overview.pdf)
+
 [Review Outline (ch 1-6)](https://github.com/MidnightJava/reston-home-group/raw/main/bible-study/Review_outline.pdf)
 
 Date|Notes|Download Audio|Play Audio
