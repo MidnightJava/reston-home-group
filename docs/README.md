@@ -17,6 +17,7 @@ Date|Notes|Download Audio|Play Audio
 **Oct 01**|[John 4:1-42 (pdf)](https://github.com/MidnightJava/reston-home-group/raw/main/bible-study/2025_Oct_01/John_4_1_42.pdf)||
 **Nov 05**|[John_5 (pdf)](https://github.com/MidnightJava/reston-home-group/raw/main/bible-study/2025_Nov_05/John_5.pdf)||
 **Nov 19**|[John_6 (pdf)](https://github.com/MidnightJava/reston-home-group/raw/main/bible-study/2025_Nov_19/John_6.pdf)||
+**May 08 (2026)**|[John_7 (pdf)](https://github.com/MidnightJava/reston-home-group/raw/main/bible-study/2026_May_08/John_7.pdf)||
 
 
 
